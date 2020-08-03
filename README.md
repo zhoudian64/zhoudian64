@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with English.
 - 💬 Ask me about IF NEED A GIRL FRIEND.
 - 📫 How to reach me: zhoudian64@gmail.com / qq: 1104127978
-- ⚡ Fun fact: safariing next leader for [SHUOSC](https://github.com/shuosc).
+- ⚡ Fun fact: looking for next leader for [SHUOSC](https://github.com/shuosc).
