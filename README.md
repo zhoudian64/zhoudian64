@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I’m currently working for Tesla, UI software @Shanghai, maintaining QQ Music and Ximalaya.
+- ⚡ Just left Tesla.
 - 🌱 I’m currently learning CPU design, using chisel to build a simple CPU and trying to embed that into a SoC.
 - 👯 I’m looking to collaborate on founding a small company.
 - 🤔 I’m looking for help to improve my English.
